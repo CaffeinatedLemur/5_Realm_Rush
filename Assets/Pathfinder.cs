@@ -26,7 +26,6 @@ public class Pathfinder : MonoBehaviour {
         BreadthFirstSearch();
         CreatePath();
         return path;
-        //ExploreNeighbours();
     }
 
     private void CreatePath()
